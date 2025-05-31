@@ -14,4 +14,4 @@ Os tópicos principais abordados incluem:
 * **Árvores (Trees):** Introdução aos conceitos básicos de árvores, terminologia e exemplos de árvores binárias.
 * **Pilhas (Stacks):** Implementações de pilhas utilizando diferentes abordagens (arrays, listas encadeadas) e suas aplicações (LIFO - Last-In, First-Out).
 
-Este repositório serve como um recurso para estudantes da disciplina, oferecendo código funcional e explicações concisas para facilitar o aprendizado e a experimentação com estas estruturas de dados essenciais.
+
