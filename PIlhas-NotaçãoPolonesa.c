@@ -66,7 +66,7 @@ int avaliarPosfixo(char *tokens[], int n) {
     return pop(&pilha);
 }
 
-// Main para teste
+
 int main() {
     // Exemplo: expressão pós-fixa: 3 4 5 * +  → 3 + (4 * 5) = 23
     char *expr[] = {"3", "4", "5", "*", "+"};
